@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Spheron Deployment
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://docs.spheron.network/framework-guide/deploy-react/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Spheron docs
         </a>
       </header>
     </div>
